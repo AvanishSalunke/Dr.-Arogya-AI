@@ -21,7 +21,7 @@ Our goal is to bridge the accessibility gap in primary healthcare using responsi
 
 **Frontend:** Next.js  
 **Backend:** Flask  
-**LLM:** Grok  
+**LLM:** Groq  
 **Location Services:** GeoPy  
 **Database:** MySQL  
 
