@@ -39,16 +39,13 @@ Our goal is to bridge the accessibility gap in primary healthcare using responsi
 ## 📌 Example Use Cases
 
 ### 1️⃣ Symptom Checker Conversation  
-*Image Placeholder*  
-`![Symptom Conversation](./assets/symptom-example.png)`
+# [Symptom Conversation](./assets/symptom-example.png)
 
 ### 2️⃣ Multi-Language Medical Support  
-*Image Placeholder*  
-`![Language Support](./assets/language-example.png)`
+# [Language Support](./assets/language-example.png)
 
-### 3️⃣ Nearby Healthcare Options  
-*Image Placeholder*  
-`![Location Based Suggestions](./assets/location-example.png)`
+### 3️⃣ Nearby Healthcare Options   
+# [Location Based Suggestions](./assets/location-example.png)
 
 ---
 
